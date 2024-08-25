@@ -1,6 +1,5 @@
 //
 //  ContentView.swift
-//  YandexFastTrack
 //
 //  Created by Kamil Suleymanov on 24.08.2024.
 //
